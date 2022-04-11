@@ -130,7 +130,6 @@ body {
 .ear.right {
     right: 40px;
     transform: rotate(20deg);
-    animation: ear 0.6s infinite alternate;
 }
 
 .raccoon .earline.left {
